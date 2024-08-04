@@ -1,4 +1,3 @@
-pip 24.2
 streamlit
 python 3.12.1
 numpy
